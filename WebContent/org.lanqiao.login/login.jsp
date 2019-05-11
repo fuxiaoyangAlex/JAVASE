@@ -15,6 +15,6 @@
 		   <input type = "reset" value = "取消">
 	</center>
 </form>	        
-</table
+	
 </body>
 </html>
